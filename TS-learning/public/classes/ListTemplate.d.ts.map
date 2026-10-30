@@ -1,0 +1,1 @@
+{"version":3,"file":"ListTemplate.d.ts","sourceRoot":"","sources":["../../src/classes/ListTemplate.ts"],"names":[],"mappings":"AAGA,OAAO,KAAK,EAAE,YAAY,EAAE,MAAM,4BAA4B,CAAA;AAG9D,qBAAa,YAAY;IACX,OAAO,CAAC,SAAS;IAA7B,YAAoB,SAAS,EAAE,gBAAgB,EAAI;IACjD,MAAM,CAAC,IAAI,EAAE,YAAY,EAAE,OAAO,EAAE,MAAM,EAAE,GAAG,EAAE,OAAO,GAAG,KAAK,QAejE;CACF"}
